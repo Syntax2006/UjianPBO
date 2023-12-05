@@ -47,22 +47,23 @@ public class Utama extends javax.swing.JFrame {
 
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/jcc.png"))); // NOI18N
         jLabel6.setText("Japan Clear Creation");
 
         jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Copyright_2.png"))); // NOI18N
-        jLabel5.setText("Copyright 2023 - 2023 Universitas Advent Batam. All Rights Reserved.");
+        jLabel5.setText("Copyright 2023 - 2023 Japan Clear Creation. All Rights Reserved.");
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Selamat datang di");
+        jLabel1.setText("Welcome to");
 
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setText("Universitas Advent Batam");
+        jLabel2.setText("Japan Clear Creation");
 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("Silahkan klik pada tombol berikut");
+        jLabel3.setText("Please press the button");
 
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setText("untuk bernavigasi ke halaman lain");
+        jLabel4.setText("for navigate to other pages");
 
         abc.setText("Form");
         abc.addActionListener(new java.awt.event.ActionListener() {
@@ -80,7 +81,7 @@ public class Utama extends javax.swing.JFrame {
                 .addContainerGap()
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                        .addGap(0, 42, Short.MAX_VALUE)
+                        .addGap(0, 72, Short.MAX_VALUE)
                         .addComponent(jLabel5)
                         .addGap(46, 46, 46))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
@@ -111,7 +112,7 @@ public class Utama extends javax.swing.JFrame {
                 .addComponent(jLabel4)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(abc)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 91, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 73, Short.MAX_VALUE)
                 .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel5)

@@ -65,7 +65,7 @@
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="1" attributes="0">
-                          <EmptySpace min="0" pref="42" max="32767" attributes="0"/>
+                          <EmptySpace min="0" pref="72" max="32767" attributes="0"/>
                           <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
                       </Group>
@@ -103,7 +103,7 @@
                   <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="abc" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="91" max="32767" attributes="0"/>
+                  <EmptySpace pref="73" max="32767" attributes="0"/>
                   <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
@@ -119,6 +119,9 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/img/jcc.png"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="Japan Clear Creation"/>
           </Properties>
         </Component>
@@ -127,7 +130,7 @@
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
               <Image iconType="3" name="/img/Copyright_2.png"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Copyright 2023 - 2023 Universitas Advent Batam. All Rights Reserved."/>
+            <Property name="text" type="java.lang.String" value="Copyright 2023 - 2023 Japan Clear Creation. All Rights Reserved."/>
           </Properties>
         </Component>
         <Component class="javax.swing.JSeparator" name="jSeparator1">
@@ -135,25 +138,25 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="Selamat datang di"/>
+            <Property name="text" type="java.lang.String" value="Welcome to"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="Universitas Advent Batam"/>
+            <Property name="text" type="java.lang.String" value="Japan Clear Creation"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="Silahkan klik pada tombol berikut"/>
+            <Property name="text" type="java.lang.String" value="Please press the button"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel4">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="untuk bernavigasi ke halaman lain"/>
+            <Property name="text" type="java.lang.String" value="for navigate to other pages"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="abc">
